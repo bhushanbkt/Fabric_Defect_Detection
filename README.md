@@ -2,7 +2,8 @@
 # Fabric Defect Detection Project
 
 This project focuses on fabric defect detection, covering the entire process from data collection to building a Streamlit app for interactive visualization.
-![Uploading IMG_20231209_184031.jpg…]()
+![IMG_20231209_184031](https://github.com/bhushanbkt/Fabric_Defect_Detection/assets/91175596/2b8f102e-f344-42b4-983c-15927e9b6e32)
+
 
 ## Demo Video
 
