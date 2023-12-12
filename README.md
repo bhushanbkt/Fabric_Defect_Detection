@@ -46,7 +46,7 @@ To explore and run the project:
 
 ## Results
 
-The project has achieved [mention any significant results or achievements]. Detailed results, visualizations, and metrics can be found in the notebook.
+The project has achieved 72% accuracy. Detailed results, visualizations, and metrics can be found in the notebook.
 
 ## Future Improvements
 
